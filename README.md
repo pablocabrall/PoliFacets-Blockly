@@ -3,4 +3,4 @@ O PoliFacets-Blockly é uma ferramenta fruto de um projeto de pesquisa com o obj
 
 Veja um exemplo [aqui](http://www.mpmota.ufpa.br/blockly/)  
 
-Leia mais sobre os resultados dessa pesquisa [aqui](https://136.199.55.186/pers/hd/b/Barata:Pablo_Eduardo_Cabral)   
+Leia mais sobre os resultados dessa pesquisa [aqui](https://dl.acm.org/citation.cfm?doid=3160504.3160530)   
